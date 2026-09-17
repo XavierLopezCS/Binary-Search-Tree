@@ -2,7 +2,7 @@
 
 # Binary Search Tree (C++)
 
-This project implements a Binary Search Tree (BST) from scratch using fully recursive operations. It supports insertion, search, and deletion (including leaf, single‑child, and two‑child removal using in‑order successor replacement). Additional recursive functions provide tree traversals, height calculation, and leaf counting.
+This program implements a Binary Search Tree (BST) from scratch using recursive operations. It involves insertion, search, and deletion (including leaf, single‑child, and two‑child removal using in‑order replacement). Additional recursive functions provide tree traversals, height calculation, and leaf counting.
 
 ## Features
 - Recursive **insert**, **search**, and **delete** operations
